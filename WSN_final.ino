@@ -18,8 +18,8 @@ char pass[] = "yashyash11";
 char auth[] = BLYNK_AUTH_TOKEN;
 
 // Telegram bot settings
-String url = "https://api.telegram.org/bot6768015017:AAELNJn4w1Ksfp6ZapJ3J8tP2H8o8N5h4H0/sendMessage";
-String chatId = "1087696422";
+String url = "https://api.telegram.org/ your bot ";
+String chatId = "your id";
 
 // DHT sensor settings
 #define DHTPIN D4
